@@ -1,4 +1,4 @@
-# Code Reviewer
+# CodeCritic
 
 ## Overview
 Code Reviewer is an AI-powered tool that scans and analyzes code in any programming language, identifies bugs and errors in detail, and provides fixes. It leverages Google Generative AI for intelligent code analysis.
